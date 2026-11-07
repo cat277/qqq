@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "chat_id": 5377271466,
+    "user_id": 5377271466,
+    "username": "sniskersik",
+    "first_name": "Nexo",
+    "product": "Аккаунт с прогревом 5000sub+",
+    "price": "50 TON",
+    "contact": "@sniskersik",
+    "details": "Nahui poshel",
+    "status": "client_rejected",
+    "created_at": "2026-10-30T14:41:45+00:00"
+  },
+  {
+    "id": 2,
+    "chat_id": 5377271466,
+    "user_id": 5377271466,
+    "username": "sniskersik",
+    "first_name": "Nexo",
+    "product": "Аккаунт с прогревом 1000sub+",
+    "price": "50 TON",
+    "contact": "Опоа",
+    "details": "Не указаны",
+    "status": "rejected",
+    "created_at": "2026-10-30T18:33:49+00:00"
+  },
+  {
+    "id": 3,
+    "chat_id": 1814251470,
+    "user_id": 1814251470,
+    "username": "JDYN2",
+    "first_name": "￴￴￴￴ ￴￴￴￴￴ ￴￴￴￴￴ ￴￴ ￴￴￴￴￴ ￴ ￴￴￴￴￴￴￴ ￴￴ ￴￴￴￴￴ ￴ ￴￴￴￴ ￴￴ ￴￴￴￴ ￴￴￴",
+    "product": "Аккаунт с прогревом 1000sub+",
+    "price": "50 TON",
+    "contact": "лвлв",
+    "details": "Не указаны",
+    "status": "rejected",
+    "created_at": "2026-10-30T20:34:01+00:00"
+  },
+  {
+    "id": 4,
+    "chat_id": 1814251470,
+    "user_id": 1814251470,
+    "username": "JDYN2",
+    "first_name": "￴￴￴￴ ￴￴￴￴￴ ￴￴￴￴￴ ￴￴ ￴￴￴￴￴ ￴ ￴￴￴￴￴￴￴ ￴￴ ￴￴￴￴￴ ￴ ￴￴￴￴ ￴￴ ￴￴￴￴ ￴￴￴",
+    "product": "Разработка Telegram-бота",
+    "price": "По договорённости",
+    "contact": "о",
+    "details": "я хочу белый дом с голубыми вставнями и видом на реку что бы я мог рисовать",
+    "status": "rejected",
+    "created_at": "2026-10-30T20:41:08+00:00"
+  },
+  {
+    "id": 5,
+    "chat_id": 8891343609,
+    "user_id": 8891343609,
+    "username": "Vizs2",
+    "first_name": "911",
+    "product": "Создание сайта",
+    "price": "По договорённости",
+    "contact": "1212",
+    "details": "Не указаны",
+    "status": "rejected",
+    "created_at": "2026-11-02T14:06:56+00:00"
+  }
+]
